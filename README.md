@@ -5,7 +5,7 @@ I'm a Business Analyst at Logistics department and I'm so passionate about numbe
 </p>
 
 <p align="center">
-    <img width="110" src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg">
+    <img width="115" src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg">
     <img width="100" src="https://brandeps.com/logo-download/M/Microsoft-Excel-logo-vector-01.svg">
     <img width="93" src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg">
     <img width="93" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
