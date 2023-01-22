@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm Serhii! :wave:</h1>
 
 <p align="center">
-I'm a Business Analyst at Logistics department and I'm so passionate about numbers! :fire:
+I'm a Business Analyst at Logistics department and I'm so passionate about numbers! :one::two::three:
 </p>
 
 <p align="center">
